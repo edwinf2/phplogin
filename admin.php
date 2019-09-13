@@ -135,7 +135,7 @@ $row = $resultado->fetch_assoc();
 							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
 								<img class="nav-user-photo" src="assets/images/avatars/user.jpg"  />
 								<span class="user-info">
-									<small>Bienvenid@</small>
+									<small>Bienvenid/a</small>
 									<!-- Mostrar Nombre del Usuario Logueado-->	
 									
 									<?php

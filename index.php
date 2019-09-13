@@ -128,7 +128,7 @@
 									<span class="red">Sistema </span>
 									<span class="white" id="id-text2">de Usuarios</span>
 								</h1>
-								<h4 class="blue" id="id-company-text">&copy; Impartiendo Conocimiento</h4>
+								<h4 class="blue" id="id-company-text">&copy; Prueba ED</h4>
 							</div>
 
 							<div class="space-6"></div>
@@ -232,7 +232,7 @@
 
 											<div class="space-6"></div>
 											<p>
-												Ungresa tu correo electronico para recibir las instrucciones
+												Ingresa tu correo electronico para recibir las instrucciones
 											</p>
 
 						<form>
