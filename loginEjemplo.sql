@@ -1,10 +1,4 @@
 
--- www.jairogaleas.com
--- Base de datos: `loginEjemplo`
---www.facebook.com/impartiendoconocimiento
-
--- --------------------------------------------------------
-
 --
 -- Estructura de tabla para la tabla `usuarios`
 --
